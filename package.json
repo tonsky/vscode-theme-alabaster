@@ -1,0 +1,27 @@
+{
+	"name": "theme-alabaster",
+	"displayName": "Alabaster Theme",
+	"version": "0.1.0",
+	"publisher": "Nikita Prokopov",
+	"license": "MIT",
+	"maintainers": ["Nikita Prokopov <prokopov@gmail.com>"],
+	"engines": { "vscode": "^1.11.0" },
+	"categories": ["Themes"],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Alabaster",
+				"uiTheme": "vs",
+				"path": "./theme/alabaster-color-theme.json"
+			}
+		]
+	},
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tonsky/vscode-theme-alabaster.git"
+	},
+	"bugs": {
+		"url": "https://github.com/tonsky/vscode-theme-alabaster/issues"
+	}
+}

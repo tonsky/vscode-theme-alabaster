@@ -1,0 +1,117 @@
+{ "name": "Alabaster",
+  "tokenColors": [
+    { "name": "Comments",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#AA3731"
+			}
+		},
+		{ "name": "Strings",
+			"scope": [
+				"string",
+				"string.regexp",
+				"constant.other.symbol"
+			],
+			"settings": {
+				"foreground": "#448C27"
+			}
+		},
+		{
+			"name": "Strings: Escape Sequences",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#777777"
+			}
+		},
+		{
+			"name": "Numbers, Characters",
+			"scope": [
+				"constant.numeric",
+				"constant.character",
+				"constant.keyword",
+				"constant"
+			],
+			"settings": {
+				"foreground": "#7A3E9D"
+			}
+		},
+		{
+			"name": "Global definitions of entity names",
+			"scope": "entity.global",
+			"settings": {
+				"foreground": "#325CC0"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#777777"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"background": "#96000014",
+				"foreground": "#660000"
+			}
+		},
+		{
+			"name": "Extra: Diff Range",
+			"scope": [
+				"meta.diff.range",
+				"meta.diff.index",
+				"meta.separator"
+			],
+			"settings": {
+				"background": "#DDDDFF",
+				"foreground": "#434343"
+			}
+		},
+		{
+			"name": "Extra: Diff From",
+			"scope": "meta.diff.header.from-file",
+			"settings": {
+				"background": "#FFDDDD",
+				"foreground": "#434343"
+			}
+		},
+		{
+			"name": "Extra: Diff To",
+			"scope": "meta.diff.header.to-file",
+			"settings": {
+				"background": "#DDFFDD",
+				"foreground": "#434343"
+			}
+		}
+  ],
+	"colors": {
+		"editorBackground": "#F7F7F7",
+		"editorWhitespaces": "#AAAAAA",
+		"editorLineHighlight": "#F0F0F0",
+		"editorSelection": "#BFDBFE",
+		"editorSelectionHighlight": "#E0E0E0",
+		"statusBarBackground": "#705697",
+		"activityBarBackground": "#3D3439",
+		"panelBackground": "#F7F7F7",
+		"sideBarBackground": "#F5F5F5",
+		"focusedElementOutline": "#705697",
+		"editorLineNumbers": "#9DA39A",
+		"editorCursor": "#705697",
+		"inputBoxActiveOptionBorder": "#adafb7",
+		"dropdownBackground": "#F7F7F7",
+		"editorFindMatch": "#FFBC5D",
+		"editorFindMatchHighlight": "#FFE9A6",
+		"peekViewEditorMatchHighlight": "#C2DFE3",
+		"peekViewTitleBackground": "#F2F8FC",
+		"peekViewEditorBackground": "#F2F8FC",
+		"peekViewResultsBackground": "#F2F8FC",
+		"peekViewResultsMatchHighlight": "#93C6D6",
+		"activityBadgeBackground": "#705697"
+  }
+}
+
