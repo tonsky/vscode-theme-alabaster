@@ -29,10 +29,11 @@ Also:
 
 ## Install
 
-1. `cd ~/.vscode/extensions`
-2. `git clone --depth 1 https://github.com/tonsky/alabaster-lighttable-skin.git`
-3. Restart Visual Studio Code
-4. Go to `Preferences → Color Theme` and choose `Alabaster`
+1. Go to `Extensions`
+2. Search for `alabaster`
+3. Install
+4. Restart Visual Studio Code (or click `Reload window`)
+5. Go to `Preferences → Color Theme` and choose `Alabaster`
 
 ## License
 

@@ -1,11 +1,11 @@
 {
 	"name": "theme-alabaster",
 	"displayName": "Alabaster Theme",
-	"version": "0.1.0",
-	"publisher": "Nikita Prokopov",
+	"version": "0.1.1",
+	"publisher": "tonsky",
 	"license": "MIT",
 	"maintainers": ["Nikita Prokopov <prokopov@gmail.com>"],
-	"engines": { "vscode": "^1.11.0" },
+	"engines": { "vscode": "^1.8.0" },
 	"categories": ["Themes"],
 	"contributes": {
 		"themes": [
