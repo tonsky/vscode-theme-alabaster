@@ -40,7 +40,12 @@
 		},
 		{
 			"name": "Global definitions of entity names",
-			"scope": "entity.global",
+			"scope": [
+				"entity.global",
+				"entity.name.type",
+				"entity.name.class",
+				"entity.name.function"
+			],
 			"settings": {
 				"foreground": "#325CC0"
 			}
