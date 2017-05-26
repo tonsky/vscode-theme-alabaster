@@ -40,7 +40,12 @@
 		},
 		{
 			"name": "Global definitions of entity names",
-			"scope": "entity.global",
+			"scope": [
+				"entity.global",
+				"entity.name.type",
+				"entity.name.class",
+				"entity.name.function"
+			],
 			"settings": {
 				"foreground": "#325CC0"
 			}
@@ -90,28 +95,27 @@
 		}
   ],
 	"colors": {
-		"editorBackground": "#F7F7F7",
-		"editorWhitespaces": "#AAAAAA",
-		"editorLineHighlight": "#F0F0F0",
-		"editorSelection": "#BFDBFE",
-		"editorSelectionHighlight": "#E0E0E0",
-		"statusBarBackground": "#705697",
-		"activityBarBackground": "#3D3439",
-		"panelBackground": "#F7F7F7",
-		"sideBarBackground": "#F5F5F5",
-		"focusedElementOutline": "#705697",
-		"editorLineNumbers": "#9DA39A",
-		"editorCursor": "#705697",
-		"inputBoxActiveOptionBorder": "#adafb7",
-		"dropdownBackground": "#F7F7F7",
-		"editorFindMatch": "#FFBC5D",
-		"editorFindMatchHighlight": "#FFE9A6",
-		"peekViewEditorMatchHighlight": "#C2DFE3",
-		"peekViewTitleBackground": "#F2F8FC",
-		"peekViewEditorBackground": "#F2F8FC",
-		"peekViewResultsBackground": "#F2F8FC",
-		"peekViewResultsMatchHighlight": "#93C6D6",
-		"activityBadgeBackground": "#705697"
+		"editor.background": "#F7F7F7",
+		"editorWhitespace.foreground": "#AAAAAA",
+		"editor.lineHighlightBackground": "#F0F0F0",
+		"editor.selectionBackground": "#BFDBFE",
+		"editor.selectionHighlightBackground": "#E0E0E0",
+		"statusBar.background": "#705697",
+		"activityBar.background": "#3D3439",
+		"panel.background": "#F7F7F7",
+		"sideBar.background": "#F5F5F5",
+		"focusBorder": "#705697",
+		"editorLineNumber.foreground": "#9DA39A",
+		"editorCursor.foreground": "#705697",
+		"inputOption.activeBorder": "#adafb7",
+		"list.dropBackground": "#F7F7F7",
+		"editor.findMatchBackground": "#FFBC5D",
+		"editor.findMatchHighlightBackground": "#FFE9A6",
+		"peekViewEditor.matchHighlightBackground": "#C2DFE3",
+		"peekViewTitle.background": "#F2F8FC",
+		"peekViewEditor.background": "#F2F8FC",
+		"peekViewResult.background": "#F2F8FC",
+		"peekViewResult.matchHighlightBackground": "#93C6D6",
+		"activityBarBadge.background": "#705697"
   }
 }
-
