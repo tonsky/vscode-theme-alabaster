@@ -1,7 +1,7 @@
 {
 	"name": "theme-alabaster",
 	"displayName": "Alabaster Theme",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"publisher": "tonsky",
 	"license": "MIT",
 	"maintainers": ["Nikita Prokopov <prokopov@gmail.com>"],

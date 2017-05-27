@@ -1,3 +1,7 @@
+# 0.2.1
+
+- Changelog for 0.2.0 :)
+
 # 0.2.0
 
 - Upgraded color codes for VS Code 1.12.0
