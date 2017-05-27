@@ -1,4 +1,5 @@
-{ "name": "Alabaster",
+{ "$schema": "vscode://schemas/color-theme",
+  "name": "Alabaster",
   "tokenColors": [
     { "name": "Comments",
 			"scope": [
@@ -40,12 +41,7 @@
 		},
 		{
 			"name": "Global definitions of entity names",
-			"scope": [
-				"entity.global",
-				"entity.name.type",
-				"entity.name.class",
-				"entity.name.function"
-			],
+			"scope": "entity.global",
 			"settings": {
 				"foreground": "#325CC0"
 			}
@@ -96,26 +92,16 @@
   ],
 	"colors": {
 		"editor.background": "#F7F7F7",
-		"editorWhitespace.foreground": "#AAAAAA",
 		"editor.lineHighlightBackground": "#F0F0F0",
 		"editor.selectionBackground": "#BFDBFE",
 		"editor.selectionHighlightBackground": "#E0E0E0",
-		"statusBar.background": "#705697",
-		"activityBar.background": "#3D3439",
-		"panel.background": "#F7F7F7",
-		"sideBar.background": "#F5F5F5",
-		"focusBorder": "#705697",
+		"panel.background": "#F0F0F0",
+		"sideBar.background": "#F0F0F0",
+		"activityBar.background": "#F0F0F0",
+		"activityBar.foreground": "#007ACC",
 		"editorLineNumber.foreground": "#9DA39A",
-		"editorCursor.foreground": "#705697",
-		"inputOption.activeBorder": "#adafb7",
-		"list.dropBackground": "#F7F7F7",
+		"editorCursor.foreground": "#007ACC",
 		"editor.findMatchBackground": "#FFBC5D",
-		"editor.findMatchHighlightBackground": "#FFE9A6",
-		"peekViewEditor.matchHighlightBackground": "#C2DFE3",
-		"peekViewTitle.background": "#F2F8FC",
-		"peekViewEditor.background": "#F2F8FC",
-		"peekViewResult.background": "#F2F8FC",
-		"peekViewResult.matchHighlightBackground": "#93C6D6",
-		"activityBarBadge.background": "#705697"
+		"editor.findMatchHighlightBackground": "#FFE9A6"
   }
 }
