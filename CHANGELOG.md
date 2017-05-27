@@ -1,3 +1,9 @@
+# 0.2.0
+
+- Upgraded color codes for VS Code 1.12.0
+- Default status bar color
+- Light background for actity bar
+
 # 0.1.1
 
 - Updated README
