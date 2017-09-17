@@ -102,6 +102,23 @@
 		"editorLineNumber.foreground": "#9DA39A",
 		"editorCursor.foreground": "#007ACC",
 		"editor.findMatchBackground": "#FFBC5D",
-		"editor.findMatchHighlightBackground": "#FFE9A6"
+		"editor.findMatchHighlightBackground": "#FFE9A6",
+
+		"terminal.ansiWhite": "#BBBBBB",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiBlue": "#325CC0",
+    "terminal.ansiCyan": "#0083B2",
+    "terminal.ansiGreen": "#448C27",
+    "terminal.ansiMagenta": "#7A3E9D",
+    "terminal.ansiRed": "#AA3731",
+    "terminal.ansiYellow": "#FFBC5D",
+    "terminal.ansiBrightWhite": "#FFFFFF",
+    "terminal.ansiBrightBlack": "#777777",
+    "terminal.ansiBrightBlue": "#007ACC",
+    "terminal.ansiBrightCyan": "#00AACB",
+    "terminal.ansiBrightGreen": "#60CB00",
+    "terminal.ansiBrightMagenta": "#E64CE6",
+    "terminal.ansiBrightRed": "#F05050",
+    "terminal.ansiBrightYellow": "#FFD9A6"
   }
 }

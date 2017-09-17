@@ -1,3 +1,7 @@
+# 0.2.2
+
+- Terminal colors (#6)
+
 # 0.2.1
 
 - Changelog for 0.2.0 :)
