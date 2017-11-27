@@ -4,9 +4,15 @@
 	"version": "0.2.2",
 	"publisher": "tonsky",
 	"license": "MIT",
-	"maintainers": ["Nikita Prokopov <prokopov@gmail.com>"],
-	"engines": { "vscode": "^1.12.0" },
-	"categories": ["Themes"],
+	"maintainers": [
+		"Nikita Prokopov <prokopov@gmail.com>"
+	],
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
 	"contributes": {
 		"themes": [
 			{

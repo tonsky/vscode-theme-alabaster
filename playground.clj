@@ -19,4 +19,13 @@
 (def some-var)
 (defonce another-var)
 
+(def f 1)
+(def f' 2)
+(def *f* 3)
+
+(defn f [] 1)
+(defn f' [] 2)
+(defn *f* [] 3)
+
+(rum/defc comp [] [:div "a"])
  

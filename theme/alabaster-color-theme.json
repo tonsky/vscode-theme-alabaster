@@ -40,13 +40,13 @@
 			}
 		},
 		{
-			"name": "Global definitions of entity names",
-			"scope": "entity.global",
+			"name": "Global definitions",
+			"scope": "meta.definition",
 			"settings": {
 				"foreground": "#325CC0"
 			}
 		},
-		{
+	  {
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
