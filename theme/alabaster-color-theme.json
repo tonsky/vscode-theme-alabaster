@@ -41,7 +41,7 @@
 		},
 		{
 			"name": "Global definitions",
-			"scope": "meta.definition",
+			"scope": "entity.name",
 			"settings": {
 				"foreground": "#325CC0"
 			}
