@@ -37,4 +37,4 @@ Additionally:
 
 ## License
 
-[MIT License](https://github.com/dracula/visual-studio-code/blob/master/./LICENSE)
+[MIT License](https://github.com/tonsky/vscode-theme-alabaster/blob/master/./LICENSE.txt)
