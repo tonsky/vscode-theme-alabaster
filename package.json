@@ -1,7 +1,7 @@
 {
 	"name": "theme-alabaster",
 	"displayName": "Alabaster Theme",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"publisher": "tonsky",
 	"license": "MIT",
 	"maintainers": [
@@ -29,5 +29,10 @@
 	},
 	"bugs": {
 		"url": "https://github.com/tonsky/vscode-theme-alabaster/issues"
+	},
+	"__metadata": {
+		"id": "c629b26b-49e4-4995-ba6e-5d083752f3d6",
+		"publisherDisplayName": "Nikita Prokopov",
+		"publisherId": "8fe0f11e-8bd6-4cf2-9ee6-acead847e970"
 	}
 }

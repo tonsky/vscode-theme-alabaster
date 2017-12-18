@@ -1,3 +1,7 @@
+# 0.2.3
+
+- Grey status bar (#8)
+
 # 0.2.2
 
 - Terminal colors (#6)

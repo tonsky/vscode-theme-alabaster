@@ -33,7 +33,7 @@ Additionally:
 2. Search for `alabaster`
 3. Install
 4. Restart Visual Studio Code (or click `Reload window`)
-5. Go to `Preferences → Color Theme` and choose `Alabaster`
+5. Go to `Preferences → Color Theme` and choose `Alabaster`
 
 ## License
 

@@ -103,6 +103,8 @@
 		"editorCursor.foreground": "#007ACC",
 		"editor.findMatchBackground": "#FFBC5D",
 		"editor.findMatchHighlightBackground": "#FFE9A6",
+		"statusBar.background" : "#DDDDDD",
+    "statusBar.foreground": "#474747",
 
 		"terminal.ansiWhite": "#BBBBBB",
     "terminal.ansiBlack": "#000000",
