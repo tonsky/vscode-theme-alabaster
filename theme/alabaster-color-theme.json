@@ -97,6 +97,7 @@
 		"editor.selectionHighlightBackground": "#E0E0E0",
 		"panel.background": "#F0F0F0",
 		"sideBar.background": "#F0F0F0",
+		"editorGroupHeader.tabsBackground":"#F0F0F0",
 		"activityBar.background": "#F0F0F0",
 		"activityBar.foreground": "#007ACC",
 		"editorLineNumber.foreground": "#9DA39A",
