@@ -1,3 +1,7 @@
+# 0.2.4
+
+- Slightly darker tabs background (#9)
+
 # 0.2.3
 
 - Grey status bar (#8)
