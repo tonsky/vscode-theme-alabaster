@@ -92,6 +92,7 @@
   ],
 	"colors": {
 		"editor.background": "#F7F7F7",
+		"editor.foreground": "#000",
 		"editor.lineHighlightBackground": "#F0F0F0",
 		"editor.selectionBackground": "#BFDBFE",
 		"editor.selectionHighlightBackground": "#E0E0E0",
@@ -106,6 +107,10 @@
 		"editor.findMatchHighlightBackground": "#FFE9A6",
 		"statusBar.background" : "#DDDDDD",
     "statusBar.foreground": "#474747",
+		"statusBar.debuggingBackground": "#FFBC5D",
+		"statusBar.debuggingForeground": "#000",
+		"statusBar.noFolderBackground": "#7A3E9D",
+		"statusBar.noFolderForeground": "#fff",
 
 		"terminal.ansiWhite": "#BBBBBB",
     "terminal.ansiBlack": "#000000",

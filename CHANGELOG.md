@@ -1,3 +1,8 @@
+# 0.2.5
+
+- #000 black for default text
+- Custom status bar colors for debugging and noFolder states
+
 # 0.2.4
 
 - Slightly darker tabs background (#9)
