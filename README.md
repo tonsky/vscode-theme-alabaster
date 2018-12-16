@@ -38,3 +38,8 @@ Additionally:
 ## License
 
 [MIT License](https://github.com/tonsky/vscode-theme-alabaster/blob/master/./LICENSE.txt)
+
+## Variations
+
+- Light version for For Sublime Text [freetonik/Travertine](https://github.com/freetonik/Travertine)
+- Dark version for VS Code [apust/vscode-rubber-theme](https://github.com/apust/vscode-rubber-theme)
