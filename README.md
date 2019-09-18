@@ -41,7 +41,8 @@ Additionally:
 
 ## Variations
 
-- Version for Sublime Text 3 [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster)
-- Alternative version for Sublime Text 2 [freetonik/Travertine](https://github.com/freetonik/Travertine)
-- Dark version for VS Code [apust/vscode-rubber-theme](https://github.com/apust/vscode-rubber-theme)
+- Dark for VS Code [apust/vscode-rubber-theme](https://github.com/apust/vscode-rubber-theme)
+- for Sublime Text 3 [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster)
+- for JetBrains IDEs (IntelliJ IDEA etc) [tonsky/intellij-alabaster](https://github.com/tonsky/intellij-alabaster)
+- for Sublime Text 2 (unofficial) [freetonik/Travertine](https://github.com/freetonik/Travertine)
 - Original version for LigthTable [tonsky/alabaster-lighttable-skin](https://github.com/tonsky/alabaster-lighttable-skin)
