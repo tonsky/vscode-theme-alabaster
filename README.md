@@ -27,6 +27,28 @@ Additionally:
 
 ![Screenshot](https://raw.githubusercontent.com/tonsky/vscode-theme-alabaster/master/screenshot.png)
 
+## What our users [are saying](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster&ssr=false#review-details)?
+
+> It's like I had this weight on my eyes, and now it's gone. Awesome!
+
+– Alex Sugak ★★★★★
+
+> After your theme others looks like unreadable neon things 🤯
+
+– lamartire ★★★★★
+
+> Minimalistic cool
+
+– denisgrib ★★★★★
+
+> Super minimal and undistracting. Easy to read.
+
+– Josh Bernitt ★★★★★
+
+> A little bit confusing at first if you're from The Dark Land. But then you just chill.
+
+– aenor.realm ★★★★★
+
 ## Install
 
 1. Go to `Extensions`
