@@ -112,6 +112,10 @@
 		"statusBar.noFolderBackground": "#7A3E9D",
 		"statusBar.noFolderForeground": "#fff",
 
+		"list.focusHighlightForeground": "#F7F7F7",
+		"quickInputList.focusForeground": "#F7F7F7",
+		"editorSuggestWidget.selectedForeground":"#F7F7F7",
+
 		"terminal.ansiWhite": "#BBBBBB",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#325CC0",
