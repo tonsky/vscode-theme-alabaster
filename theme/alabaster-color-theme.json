@@ -1,7 +1,9 @@
-{ "$schema": "vscode://schemas/color-theme",
-  "name": "Alabaster",
-  "tokenColors": [
-    { "name": "Comments",
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Alabaster",
+	"tokenColors": [
+		{
+			"name": "Comments",
 			"scope": [
 				"comment",
 				"punctuation.definition.comment"
@@ -10,7 +12,8 @@
 				"foreground": "#AA3731"
 			}
 		},
-		{ "name": "Strings",
+		{
+			"name": "Strings",
 			"scope": [
 				"string",
 				"string.regexp",
@@ -46,7 +49,7 @@
 				"foreground": "#325CC0"
 			}
 		},
-	  {
+		{
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
@@ -89,7 +92,7 @@
 				"foreground": "#434343"
 			}
 		}
-  ],
+	],
 	"colors": {
 		"editor.background": "#F7F7F7",
 		"editor.foreground": "#000",
@@ -98,15 +101,15 @@
 		"editor.selectionHighlightBackground": "#E0E0E0",
 		"panel.background": "#F0F0F0",
 		"sideBar.background": "#F0F0F0",
-		"editorGroupHeader.tabsBackground":"#F0F0F0",
+		"editorGroupHeader.tabsBackground": "#F0F0F0",
 		"activityBar.background": "#F0F0F0",
 		"activityBar.foreground": "#007ACC",
 		"editorLineNumber.foreground": "#9DA39A",
 		"editorCursor.foreground": "#007ACC",
 		"editor.findMatchBackground": "#FFBC5D",
 		"editor.findMatchHighlightBackground": "#FFDF80B1",
-		"statusBar.background" : "#DDDDDD",
-    "statusBar.foreground": "#474747",
+		"statusBar.background": "#DDDDDD",
+		"statusBar.foreground": "#474747",
 		"statusBar.debuggingBackground": "#FFBC5D",
 		"statusBar.debuggingForeground": "#000",
 		"statusBar.noFolderBackground": "#7A3E9D",
@@ -114,23 +117,23 @@
 
 		"list.focusHighlightForeground": "#F7F7F7",
 		"quickInputList.focusForeground": "#F7F7F7",
-		"editorSuggestWidget.selectedForeground":"#F7F7F7",
+		"editorSuggestWidget.selectedForeground": "#F7F7F7",
 
 		"terminal.ansiWhite": "#BBBBBB",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiBlue": "#325CC0",
-    "terminal.ansiCyan": "#0083B2",
-    "terminal.ansiGreen": "#448C27",
-    "terminal.ansiMagenta": "#7A3E9D",
-    "terminal.ansiRed": "#AA3731",
-    "terminal.ansiYellow": "#CB9000",
-    "terminal.ansiBrightWhite": "#FFFFFF",
-    "terminal.ansiBrightBlack": "#777777",
-    "terminal.ansiBrightBlue": "#007ACC",
-    "terminal.ansiBrightCyan": "#00AACB",
-    "terminal.ansiBrightGreen": "#60CB00",
-    "terminal.ansiBrightMagenta": "#E64CE6",
-    "terminal.ansiBrightRed": "#F05050",
-    "terminal.ansiBrightYellow": "#FFBC5D"
-  }
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBlue": "#325CC0",
+		"terminal.ansiCyan": "#0083B2",
+		"terminal.ansiGreen": "#448C27",
+		"terminal.ansiMagenta": "#7A3E9D",
+		"terminal.ansiRed": "#AA3731",
+		"terminal.ansiYellow": "#CB9000",
+		"terminal.ansiBrightWhite": "#FFFFFF",
+		"terminal.ansiBrightBlack": "#777777",
+		"terminal.ansiBrightBlue": "#007ACC",
+		"terminal.ansiBrightCyan": "#00AACB",
+		"terminal.ansiBrightGreen": "#60CB00",
+		"terminal.ansiBrightMagenta": "#E64CE6",
+		"terminal.ansiBrightRed": "#F05050",
+		"terminal.ansiBrightYellow": "#FFBC5D"
+	}
 }
