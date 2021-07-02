@@ -1,3 +1,11 @@
+# 0.2.7
+
+- fixed visibility in suggest widget #22 thx @dziaineka
+
+# 0.2.6
+
+- Fix Quick Pick & suggest widget colors #20 thx @artelkr
+
 # 0.2.5
 
 - #000 black for default text
