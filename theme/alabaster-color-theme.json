@@ -115,10 +115,16 @@
 		"statusBar.noFolderBackground": "#7A3E9D",
 		"statusBar.noFolderForeground": "#fff",
 
-		"list.focusHighlightForeground": "#F7F7F7",
-		"quickInputList.focusForeground": "#F7F7F7",
-		
-		"editorSuggestWidget.selectedBackground": "#CCCCCC",
+		"list.activeSelectionBackground": "#DDDDDD",
+		"list.activeSelectionForeground": "#000000",
+		"list.inactiveSelectionBackground": "#E6E6E6",
+		"list.focusHighlightForeground": "#007ACC",
+		"focusBorder": "#CCCCCC",
+
+		"quickInputList.focusForeground": "#000000",
+		"quickInputList.focusBackground": "#DDDDDD",
+
+		"editorSuggestWidget.selectedBackground": "#DDDDDD",
 		"editorSuggestWidget.focusHighlightForeground": "#000000",
 		"editorSuggestWidget.highlightForeground": "#000000",
 		"editorSuggestWidget.selectedForeground": "#000000",
