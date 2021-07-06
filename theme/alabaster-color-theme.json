@@ -107,7 +107,7 @@
 		"editorLineNumber.foreground": "#9DA39A",
 		"editorCursor.foreground": "#007ACC",
 		"editor.findMatchBackground": "#FFBC5D",
-		"editor.findMatchHighlightBackground": "#FFDF80B1",
+		"editor.findMatchHighlightBackground": "#FFD86381",
 		"statusBar.background": "#DDDDDD",
 		"statusBar.foreground": "#474747",
 		"statusBar.debuggingBackground": "#FFBC5D",
