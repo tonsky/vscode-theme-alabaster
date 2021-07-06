@@ -98,7 +98,7 @@
 		"editor.foreground": "#000",
 		"editor.lineHighlightBackground": "#F0F0F0",
 		"editor.selectionBackground": "#BFDBFE",
-		"editor.selectionHighlightBackground": "#E0E0E0",
+		"editor.selectionHighlightBackground": "#CFCFCF81",
 		"panel.background": "#F0F0F0",
 		"sideBar.background": "#F0F0F0",
 		"editorGroupHeader.tabsBackground": "#F0F0F0",
