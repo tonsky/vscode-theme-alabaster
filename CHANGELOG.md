@@ -1,3 +1,11 @@
+# 0.2.9
+
+- Selection highlight background is opaque #24 thx @dziaineka
+
+# 0.2.8
+
+- Consistent colors in panels #23 thx @dziaineka
+
 # 0.2.7
 
 - fixed visibility in suggest widget #22 thx @dziaineka
