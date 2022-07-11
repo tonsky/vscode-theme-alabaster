@@ -54,8 +54,6 @@ Additionally:
 1. Go to `Extensions`
 2. Search for `alabaster`
 3. Install
-4. Restart Visual Studio Code (or click `Reload window`)
-5. Go to `Preferences → Color Theme` and choose `Alabaster`
 
 ## License
 
@@ -69,4 +67,4 @@ Additionally:
 - for Sublime Text 3 [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster)
 - for JetBrains IDEs (IntelliJ IDEA etc) [tonsky/intellij-alabaster](https://github.com/tonsky/intellij-alabaster)
 - for Sublime Text 2 (unofficial) [freetonik/Travertine](https://github.com/freetonik/Travertine)
-- Original version for LigthTable [tonsky/alabaster-lighttable-skin](https://github.com/tonsky/alabaster-lighttable-skin)
+- Original version for LightTable [tonsky/alabaster-lighttable-skin](https://github.com/tonsky/alabaster-lighttable-skin)
