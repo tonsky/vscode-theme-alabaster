@@ -66,5 +66,7 @@ Additionally:
   [gargakshit/vscode-theme-alabaster-dark](https://github.com/gargakshit/vscode-theme-alabaster-dark)
 - for Sublime Text 3 [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster)
 - for JetBrains IDEs (IntelliJ IDEA etc) [tonsky/intellij-alabaster](https://github.com/tonsky/intellij-alabaster)
+- for JetBrains IDEs as a plugin [vlnabatov/alabaster-theme](https://github.com/vlnabatov/alabaster-theme)
+- for JetBrains IDEs as a plugin (dark version) [vlnabatov/alabaster-dark-theme](https://github.com/vlnabatov/alabaster-dark-theme)
 - for Sublime Text 2 (unofficial) [freetonik/Travertine](https://github.com/freetonik/Travertine)
 - Original version for LightTable [tonsky/alabaster-lighttable-skin](https://github.com/tonsky/alabaster-lighttable-skin)
