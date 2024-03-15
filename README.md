@@ -9,7 +9,7 @@ Most color themes highlight everything they can, ending up looking like a firewo
 Instead, Alabaster uses minimal highlighting; it defines just four classes:
 
   1. Strings
-  2. All statically known constants (numbers, symbols, keywords, boolean values)
+  2. All statically known constants (numbers, symbols, user-defined keywords, boolean values)
   3. Comments
   4. Global definitions
 
