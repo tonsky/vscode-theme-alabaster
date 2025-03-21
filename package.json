@@ -1,5 +1,6 @@
 {
 	"name": "theme-alabaster",
+	"description": "A light theme with minimal amount of highlighting",
 	"displayName": "Alabaster Theme",
 	"version": "0.2.9",
 	"publisher": "tonsky",
