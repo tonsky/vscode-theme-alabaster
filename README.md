@@ -64,6 +64,7 @@ Additionally:
 - Dark for VS Code [apust/vscode-rubber-theme](https://github.com/apust/vscode-rubber-theme)
 - Dark for VS Code (closer to the original ST version)
   [gargakshit/vscode-theme-alabaster-dark](https://github.com/gargakshit/vscode-theme-alabaster-dark)
+- Light for VS Code (closer to JetBrains IDEs version) [atrskv/vscode-theme-alabaster](https://github.com/atrskv/vscode-theme-alabaster)
 - for Sublime Text 3 [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster)
 - for JetBrains IDEs (IntelliJ IDEA etc) [tonsky/intellij-alabaster](https://github.com/tonsky/intellij-alabaster)
 - for JetBrains IDEs as a plugin [vlnabatov/alabaster-theme](https://github.com/vlnabatov/alabaster-theme)
