@@ -55,6 +55,8 @@ Additionally:
 2. Search for `alabaster`
 3. Install
 
+Or alternatively open the extension webpage in browser and install from there: https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster
+
 ## License
 
 [MIT License](https://github.com/tonsky/vscode-theme-alabaster/blob/master/./LICENSE.txt)
